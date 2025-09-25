@@ -1,0 +1,99 @@
+{
+  "Shared": {
+    "Observe86": "Observe86",
+    "FieldRequired": "This field is required.",
+    "PasswordValidation": "Password must be at least 8 characters long, contains at least one uppercase letter, one lowercase letter, one number and one special character.",
+    "Notes": "Notes",
+    "SearchMoreOrCreate": "Search more or create...",
+    "ComingSoon": "Work in Progress",
+    "ComingSoonDescription": "This feature is not yet available and is still a work in progress. Contact one of our representatives for more information.",
+    "Search": "Search...",
+    "NoResults": "We couldn't find any results.",
+    "StartTyping": "Start typing to search...",
+    "Warning": "Warning",
+    "You": "You",
+    "Or": "Or",
+    "Actions": "Actions",
+    "Select": "Select...",
+    "Loading": "Loading...",
+    "Apply": "Apply",
+    "New": "New",
+    "Add": "Add",
+    "Create": "Create",
+    "Edit": "Edit",
+    "Read": "View",
+    "Administrator": "Administrator",
+    "Update": "Update",
+    "Delete": "Delete",
+    "Export": "Export",
+    "Remove": "Remove",
+    "Save": "Save",
+    "Cancel": "Cancel",
+    "Close": "Close",
+    "Confirm": "Confirm",
+    "AreYouSure": "Are you sure?",
+    "Name": "Name",
+    "Email": "Email",
+    "Username": "Username",
+    "Password": "Password",
+    "Roles": "Roles",
+    "Role": "Role",
+    "Status": "Status"
+  },
+  "Languages": {
+    "ar": "Arabic",
+    "en": "English"
+  },
+  "Network": {
+    "NetworkConnectionError": "Network connection error - you are either offline or the server is not reachable.",
+    "EstablishedRealTimeConnection": "Established real-time connection with server.",
+    "RealTimeConnectionLost": "Real-time connection with server lost.",
+    "OperationSuccessful": "Operation successful.",
+    "ForbiddenQueryError": "403 Forbidden - You are not allowed to access this resource.",
+    "ForbiddenMutationError": "403 Forbidden - You are not allowed to perform this operation.",
+    "Online": "You are online and connected to the server.",
+    "Offline": "You are currently offline. Please check your internet connection."
+  },
+  "TermsAndConditions": {
+    "Title": "Terms and Conditions"
+  },
+  "PrivacyPolicy": {
+    "Title": "Privacy Policy"
+  },
+  "DataTable": {
+    "Asc": "Asc",
+    "Desc": "Desc",
+    "Hide": "Hide",
+    "selected": "selected",
+    "ClearFilters": "Clear filters",
+    "Reset": "Reset",
+    "Columns": "Columns",
+    "ToggleColumns": "Toggle columns",
+    "of": "of",
+    "RowsSelected": "row(s) selected",
+    "RowsPerPage": "Rows per page",
+    "ItemsSelected": "selected",
+    "ItemsPerPage": "Items per page",
+    "Page": "Page",
+    "GoToFirstPage": "Go to the first page",
+    "GoToLastPage": "Go to the last page",
+    "GoToNextPage": "Go to the next page",
+    "GoToPreviousPage": "Go to previous page",
+    "Results": "results"
+  },
+  "NotFound": {
+    "Title": "Not Found",
+    "Description": "Could not find requested resource.",
+    "BackToHome": "Back to home"
+  },
+  "Forbidden": {
+    "Title": "Forbidden",
+    "Description": "You are not allowed to access this resource.",
+    "BackToHome": "Back to home"
+  },
+  "Footer": {
+    "Copyright": "© 2025 - All rights reserved.",
+    "TermsAndConditions": "Terms and Conditions",
+    "PrivacyPolicy": "Privacy Policy"
+  }
+}
